@@ -27,7 +27,7 @@ This project is a thrilling racing game developed in Unity where players can rac
 https://drive.google.com/file/d/1hCSG38Vvd5IGa7sIkvLsyT7sUcZqRdov/view?usp=sharing 
 
 ## Main Scene
-[Main Scene](Assets/scene_inclass.unity)
+[scene_inclass.unity file contains the main scene](Assets/scene_inclass.unity)
 
 ### Features under progress:
 - Shortcuts in the road network
