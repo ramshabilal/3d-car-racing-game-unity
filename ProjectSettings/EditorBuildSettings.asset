@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Circuit1Game.unity
     guid: afbf4fcc067c5134eb911bae2223cc7d
+  - enabled: 1
+    path: Assets/ZigZag.unity
+    guid: c1056dd0f48954636b58b769b698271c
   m_configObjects: {}
