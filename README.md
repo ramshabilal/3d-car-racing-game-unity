@@ -42,10 +42,12 @@ A lap system is added and user can only win after the third lap. This is impleme
 #### HUD - Display Lap Count
 - A Display allows user to see how many laps out of total 3 have been elapsed. The user wins after the 3rd lap.
 ## Video Demo
+
 **Updated demos:**
 Intro of game mechanics: https://drive.google.com/file/d/1VY7UbAgb04RMNQ4WqHYBFBgfaMn2oAPW/view?usp=drive_link   
 
-Video of gameplay: https://drive.google.com/file/d/1CK6mHOhaFlUuTppkuB3AMPAOW__CsQh8/view?usp=sharing
+**Video of gameplay:** 
+https://drive.google.com/file/d/1CK6mHOhaFlUuTppkuB3AMPAOW__CsQh8/view?usp=sharing
 
 **Initial demo:**
 https://drive.google.com/file/d/1hCSG38Vvd5IGa7sIkvLsyT7sUcZqRdov/view?usp=sharing 
@@ -53,7 +55,7 @@ https://drive.google.com/file/d/1hCSG38Vvd5IGa7sIkvLsyT7sUcZqRdov/view?usp=shari
 ### All requirements of the assignment are met.
 
 ## Main Scene
-[scene_inclass.unity file contains the main scene](Assets/mainmenu.unity)
+[scene_inclass.unity file contains the main scene](Assets/MainMenu.unity)
 
 ### Features under progress:
 - Shortcuts in the road network
