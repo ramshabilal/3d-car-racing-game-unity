@@ -44,7 +44,9 @@ A lap system is added and user can only win after the third lap. This is impleme
 ## Video Demo
 
 **Updated demos:**
-Intro of game mechanics: https://drive.google.com/file/d/1VY7UbAgb04RMNQ4WqHYBFBgfaMn2oAPW/view?usp=drive_link   
+
+**Intro of game mechanics:** 
+https://drive.google.com/file/d/1VY7UbAgb04RMNQ4WqHYBFBgfaMn2oAPW/view?usp=drive_link   
 
 **Video of gameplay:** 
 https://drive.google.com/file/d/1CK6mHOhaFlUuTppkuB3AMPAOW__CsQh8/view?usp=sharing
