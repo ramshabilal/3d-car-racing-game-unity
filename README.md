@@ -58,9 +58,3 @@ https://drive.google.com/file/d/1hCSG38Vvd5IGa7sIkvLsyT7sUcZqRdov/view?usp=shari
 
 ## Main Scene
 [scene_inclass.unity file contains the main scene](Assets/MainMenu.unity)
-
-### Features under progress:
-- Shortcuts in the road network
-- Menu
-- Cars and circuits to choose from
-- HUD where the player can see the current speed, lap number, or other details
