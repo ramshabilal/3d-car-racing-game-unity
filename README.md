@@ -2,6 +2,9 @@
 
 This project is a thrilling racing game developed in Unity where players can race through dynamic tracks, compete against AI opponents, and strive for victory. This repository contains the source code and assets for a 3D car racing game developed in Unity.
 
+## **Video of gameplay:** 
+https://drive.google.com/file/d/1CK6mHOhaFlUuTppkuB3AMPAOW__CsQh8/view?usp=sharing
+
 ## Features Implemented
 #### Car Customization
 - Changed car materials and adjusted car body, glass, wheels, and fenders colors to enhance visual appeal.
